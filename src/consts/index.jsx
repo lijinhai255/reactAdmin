@@ -1,0 +1,2 @@
+// 定义类型
+export let UPDATE_USERNAME = 'UPDATE_USERNAME';
